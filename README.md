@@ -8,7 +8,7 @@ This stripper will add some extra stages to ze_deadcore_v1_3_w5, and modify some
  
  -> Added more extra stages to adminroom. Only admins can change stage to them.
  
- // Nobody will teleport to adminroom by entity relays, no one can select them.
+ // Nobody will teleport to adminroom by entity relays, no one can select them except using noclip.
  
  ## Cauntion
  
